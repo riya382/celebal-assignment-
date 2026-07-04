@@ -1,0 +1,11 @@
+Row ID,Order ID,Order Date,Customer ID,Customer Name,Segment,Product ID,Product Name,Category,Sub-Category,Sales,Quantity
+1,CA-2026-152156,2026-11-08,CG-12520,Claire Gute,Consumer,FUR-BO-10001798,Bush Somerset Collection Bookcase,Furniture,Bookcases,261.96,2
+2,CA-2026-152156,2026-11-08,CG-12520,Claire Gute,Consumer,FUR-CH-10000454,Hon Deluxe Fabric Upholstered Stacking Chairs,Furniture,Chairs,731.94,3
+3,CA-2026-138688,2026-06-12,DV-13045,Darrin Van Huff,Corporate,OFF-LA-10000240,Self-Adhesive Address Labels for Typewriters,Office Supplies,Labels,14.62,2
+4,US-2026-108966,2026-10-11,SO-20335,Sean O'Donnell,Consumer,FUR-TA-10000577,Bretford CR4500 Series Slim Rectangular Table,Furniture,Tables,957.57,5
+5,US-2026-108966,2026-10-11,SO-20335,Sean O'Donnell,Consumer,OFF-ST-10000760,Eldon Fold 'N Roll Cart System,Office Supplies,Storage,22.36,2
+6,CA-2026-115812,2026-06-09,BH-11710,Brosina Hoffman,Consumer,FUR-FU-10001487,Eldon Expressions Wood and Plastic Desk Accessories,Furniture,Furnishings,48.86,7
+7,CA-2026-115812,2026-06-09,BH-11710,Brosina Hoffman,Consumer,OFF-AR-10002833,Newell 322,Office Supplies,Art,7.28,4
+8,CA-2026-115812,2026-06-09,BH-11710,Brosina Hoffman,Consumer,TEC-PH-10002275,Mitel 5320 IP Phone VoIP phone,Technology,Phones,907.15,6
+9,CA-2026-115812,2026-06-09,BH-11710,Brosina Hoffman,Consumer,OFF-BI-10003910,DXL Angle-View Binders with Locking Rings,Office Supplies,Binders,18.50,3
+10,CA-2026-115812,2026-06-09,BH-11710,Brosina Hoffman,Consumer,OFF-AP-10002892,Belkin F5C412-101 RM Plug Strip,Office Supplies,Appliances,114.90,5
